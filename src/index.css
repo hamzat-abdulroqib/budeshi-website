@@ -1,0 +1,29 @@
+@import "tailwindcss";
+.hero {
+  background-color: rgba(34, 58, 144, 0.2);
+  color: rgb(34, 58, 144);
+}
+
+.text-hero {
+  color: rgba(0, 0, 0, 0.7);
+}
+.milestone {
+  background-image: url(/assets/bgbottom.svg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+.Howtooperate {
+  background-image: url(/assets/top.svg);
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+.testi {
+  background-image: url(/assets/quotes.svg);
+  background-repeat: no-repeat;
+  background-postion: bottom right 1rem;
+}
+
+.btn-constructor {
+  background-color: rgba(34, 58, 144, 0.2);
+  color: rgb(34, 58, 144);
+}
